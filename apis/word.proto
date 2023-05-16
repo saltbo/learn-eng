@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+import "google/api/annotations.proto";
+
+enum MasteryDegree {
+  NoNoNo = 0; // 不认识
+  KnowCantRead = 1; // 认识不会读
+  KnowCantWrite = 2; // 认识不会写
+  KnowCantReadCantWrite = 3; // 认识不会读不会写
+  KnowCanReadCantWrite = 4; // 认识会读不会写
+  KnowCanWriteCantRead = 5; // 认识会写不会读
+  KnowCanReadCanWrite = 6; // 会读会写
+}
+
+message Vocabulary {
+  string id = 1;
+  int64 uid = 2;
+  string name = 3;
+  MasteryDegree level = 4;
+}
+
+service VocabularyService {
+  rpc Add(Vocabulary) returns (Vocabulary) {
+    option (google.api.http) = {get: "/api/v1/apps"};
+  }
+
+  rpc UpdateMasteryDegree(Vocabulary) returns (Vocabulary) {
+
+  }
+}
