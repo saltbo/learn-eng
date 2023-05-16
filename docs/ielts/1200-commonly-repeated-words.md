@@ -3,7 +3,7 @@
 
 - Days of the week: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday, weekdays, weekend
 - Months of the year: January, February, March, April, May, June, July August, September, October, November, December
-  Weather: humid, hot, sticky, breeze, chilly, cold, cool, dry, dusty, freezing, hot, warm, wet, weather forecast, antenna, moisture,
+- Weather: humid, hot, sticky, breeze, chilly, cold, cool, dry, dusty, freezing, hot, warm, wet, weather forecast, antenna, moisture,
 - Colour: blue, white, orange, green, grey, black, red, yellow, purple, brown, pink
 - Continents: Australia, Africa, South America, North America, Asia, Europe, Antarctica
 - Expressions and time: midday, three times, three times per week, millennium,  a gap year, fulltime, part-time, midnight, century, decade, fortnight.
