@@ -2,3 +2,6 @@ site_name: Learn English Everyday
 
 theme:
   name: material
+
+markdown_extensions:
+  - md_in_html

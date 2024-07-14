@@ -63,6 +63,11 @@ v. 产生
 generate/make
 
 ### administer
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=administer&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 v. 管理，治理
 
 manage
@@ -78,16 +83,31 @@ v. 上升
 goup/increase
 
 ### enhance
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=enhance&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 v. 增强
 
 improve/increase
 
 ### donate
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=donate&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 v. 捐赠
 
 charity/give
 
 ### visualize
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=visualize&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 v. 想象
 
 imagine
@@ -115,6 +135,11 @@ n. 入口
 access/main gate/door
 
 ### habitat
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=habitat&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 栖息地
 
 live/territory
@@ -125,6 +150,11 @@ n. 目标
 aim/goal/target/key areas
 
 ### analysis
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=analysis&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 分析，认知
 
 perspective/understand/perceive/know
@@ -140,6 +170,11 @@ n. 特别的
 special/in particular/especially
 
 ### statistics
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=statistics&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 统计学
 
 data/figure
@@ -155,6 +190,11 @@ n. 组织
 business/company/corporation structure
 
 ### jewellery
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=jewellery&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 珠宝
 
 rings/bracelets/necklaces/precious stones/gem/diamond/luxurious
@@ -165,6 +205,11 @@ n. 地质学；地质情况
 cliff/fossil/rock/landscape
 
 ### capacity
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=capacity&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 容量
 
 volume/room/space/size
@@ -180,11 +225,21 @@ n. 缺点
 drawback/shortcoming/negative/problem
 
 ### majority
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=majority&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 绝大部分
 
 most
 
 ### trend
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=trend&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 倾向;趋势
 
 possibility/likely/tendency
@@ -195,6 +250,11 @@ n. 伤害
 harm/hurt/damage/dangerous/frighten
 
 ### occupation
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=occupation&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 职位
 
 profession/job
@@ -215,6 +275,11 @@ n. 燃料
 coal/firewood/petrol/gas
 
 ### preference
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=preference&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 偏爱；优先权
 
 like/priority
@@ -225,6 +290,11 @@ n. 重复
 over and over
 
 ### pollutant
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=pollutant&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 n. 污染物
 
 contaminant
@@ -237,11 +307,21 @@ adj. 城市的
 city/metropolitan
 
 ### temporary
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=temporary&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 adj. 暂时的
 
 a short time
 
 ### permanent
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=permanent&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 adj. 长久的
 
 long-lasting
@@ -257,6 +337,11 @@ adj. 可用的
 have/accessible/not close/open
 
 ### allergic
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=allergic&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 adj. 过敏的
 
 can't eat
@@ -267,6 +352,11 @@ adj. 完美的
 perfect
 
 ### ancient
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=ancient&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 adj. 古老的，过去的
 
 medieval/in the past/once/historical/old/former
@@ -277,6 +367,11 @@ adj. 危险的
 dangerous/not safe/hazard
 
 ### specific
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=specific&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 adj. 具体的
 
 detail/particular/example
@@ -299,6 +394,11 @@ convenient
 ## Adverbs
 
 ### accurately
+<audio controls>
+  <source src="https://dict.youdao.com/dictvoice?audio=accurately&type=2" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
+
 adv. 精确地
 
 precisely
