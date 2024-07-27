@@ -1,64 +1,28 @@
 # Advanced
 
-## 第 1 类考点词
-滚瓜烂熟
+## Verbs
 
 | 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
 |---|---|---|---|---|---|
-5|fundamental| adj.|基本的，基础的| rudimentary, preliminary, basic
 14|underlie |v.|成为……基础| based on, ground, root
-16|fertiliser| n.|化肥，肥料| chemical, toxic, unnatural
-61|exclusive|adj.|独有的；排外的；专一的|only
-51|beneficial| adj.|有益的| helpful, advantageous, wholesome
 48|determine| v.|决定| decide
-
-
-## 第 2 类观点词
-
-熟记 10 遍以上
-
-| 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
-|---|---|---|---|---|---|
-28|compensate|n.|补偿，赔偿|make up, offset
-31|criteria| n.|标准| standard
-32|curriculum| n.|课程| syllabus, course of study
-33|feasible| adj.|可行的| realistic, viable
 34|constrain| v.|束缚，限制| stop, control
-35|deficiency| n.|缺陷，缺点| shortage, defect, weakness
 36|supplement |v.|补充 |provision
 37|distinguish| v.|区别，辨别| separate, differentiate
 39|emphasize| v.|强调，着重| focus on, stress
-40|enormous| adj.|庞大的，巨大的| massive, large
 41|imitate| v.|模仿| mimic, copy
 42|impair| v.|削弱，减少| damage, diminish, decrease
 43|hinder| v.|阻碍| impede, prevent, deter, obstacle
-44|legitimate| adj.|合法的| legal
-46|convention| n.|手法；习俗| method; tradition
 49|accelerate| v.|加速，促进；强调| speed up
-52|chronic|adj.|慢性的，长期性的|lasting
-53|conscious|adj.|有意识的，神志清醒的|aware, knowing
-55|immunity|n.|免疫力|resistance
-56|Imperative|adj.|必要的，紧急的|compelling, necessary, urgent
 57|secrete|v.|分泌|discharge, exude
 58|exaggerate|v.|夸大，夸张|overstate
 59|transmit|v.|传达，传输| pass, send ,transfer
 60|extinct|v.|灭绝|die out, lost
 62|guarantee|v.|保证，担保|assure
-64|witness|n.|见证，证据；目击者|view, see
-65|magnetic|adj.|有磁性的|attractive
-71|principle|n.|原理| rule
-72|potential|n.|潜能/adj.潜在的|possibility
 74|settle|v.|解决；定居，稳定|fix, figure out
 75|sophisticate|v.|使复杂|complicate
 77|survive|v.|存活，幸存|remain
-83|faculty|n.|能力，才能；全体教员|ability
-85|dynamics|n.|动力学|energy, force, move
-86|incentive|n.|刺激,鼓励;动机|motive, stimulus
-87|mortality|n.|死亡率|death
-88|peripheral|adj.|外围的，次要的|unimportant, minor
-89|vicinity|n.|邻近，附近|neighbourhood, nearby
 90|threaten|v.|威胁，危及|endanger, jeopardize, risk, hazard
-92|bacteria|n.|细菌|virus, germ, microbe
 93|be subject to||受…...支配|face
 94|be liable to||易于……|potential
 95|innate|adj.|天生的；内在的，直觉的|built-in, inborn
@@ -75,6 +39,44 @@
 115|erode|v.|侵蚀|rust, damage
 116|induce|v.|引起，引诱|cause, lead to
 118|integrate|v.|使……成整体|combine, whole
+
+## Nouns
+
+| 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
+|---|---|---|---|---|---|
+16|fertiliser| n.|化肥，肥料| chemical, toxic, unnatural
+28|compensate|n.|补偿，赔偿|make up, offset
+31|criteria| n.|标准| standard
+32|curriculum| n.|课程| syllabus, course of study
+35|deficiency| n.|缺陷，缺点| shortage, defect, weakness
+46|convention| n.|手法；习俗| method; tradition
+55|immunity|n.|免疫力|resistance
+64|witness|n.|见证，证据；目击者|view, see
+71|principle|n.|原理| rule
+72|potential|n.|潜能/adj.潜在的|possibility
+83|faculty|n.|能力，才能；全体教员|ability
+85|dynamics|n.|动力学|energy, force, move
+86|incentive|n.|刺激,鼓励;动机|motive, stimulus
+87|mortality|n.|死亡率|death
+89|vicinity|n.|邻近，附近|neighbourhood, nearby
+92|bacteria|n.|细菌|virus, germ, microbe
+
+## Adjectives
+
+| 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
+|---|---|---|---|---|---|
+5|fundamental| adj.|基本的，基础的| rudimentary, preliminary, basic
+61|exclusive|adj.|独有的；排外的；专一的|only
+51|beneficial| adj.|有益的| helpful, advantageous, wholesome
+33|feasible| adj.|可行的| realistic, viable
+40|enormous| adj.|庞大的，巨大的| massive, large
+44|legitimate| adj.|合法的| legal
+52|chronic|adj.|慢性的，长期性的|lasting
+53|conscious|adj.|有意识的，神志清醒的|aware, knowing
+56|Imperative|adj.|必要的，紧急的|compelling, necessary, urgent
+65|magnetic|adj.|有磁性的|attractive
+88|peripheral|adj.|外围的，次要的|unimportant, minor
+
 
 ## 第 3 类考点词
 
