@@ -1,51 +1,71 @@
 # Advanced
 
-## Verbs
+## Animals and plants
+
+57|secrete|v.|分泌|discharge, exude
+60|extinct|v.|灭绝|die out, lost
+x|blight|v.|损害；枯萎|destroy
+
+
+## Verbs(71)
+
+### From human
 
 | 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
 |---|---|---|---|---|---|
-14|underlie |v.|成为……基础| based on, ground, root
-48|determine| v.|决定| decide
 34|constrain| v.|束缚，限制| stop, control
 36|supplement |v.|补充 |provision
 37|distinguish| v.|区别，辨别| separate, differentiate
 39|emphasize| v.|强调，着重| focus on, stress
 41|imitate| v.|模仿| mimic, copy
-42|impair| v.|削弱，减少| damage, diminish, decrease
 43|hinder| v.|阻碍| impede, prevent, deter, obstacle
-49|accelerate| v.|加速，促进；强调| speed up
-57|secrete|v.|分泌|discharge, exude
+48|determine| v.|决定| decide
 58|exaggerate|v.|夸大，夸张|overstate
-59|transmit|v.|传达，传输| pass, send ,transfer
-60|extinct|v.|灭绝|die out, lost
 62|guarantee|v.|保证，担保|assure
 74|settle|v.|解决；定居，稳定|fix, figure out
-75|sophisticate|v.|使复杂|complicate
 77|survive|v.|存活，幸存|remain
 90|threaten|v.|威胁，危及|endanger, jeopardize, risk, hazard
 102|consult|v|.查阅,商量,请教,咨询|ask for advice
-105|co-ordinate|v.|使……协调|organize, harmonize
-115|erode|v.|侵蚀|rust, damage
-116|induce|v.|引起，引诱|cause, lead to
-118|integrate|v.|使……成整体|combine, whole
-x|blight|v.|损害；枯萎|destroy
-x|bungle|v.|搞糟，拙劣地工作|mishandle
-x|cater|v.|迎合；满足需求|serve
-x|certify|v.|证明，保证|verify
 x|commute|v.|通勤；用……交换|travel
+118|integrate|v.|使……成整体|combine, whole
+x|bungle|v.|搞糟，拙劣地工作|mishandle
 x|conceal|v.|隐藏；隐瞒|hide
 x|concentrate|v.|专心于；集中|focus
 x|concur|v.|同意|agree
 x|confer|v.|授予，给予|grant
 x|curb|v.|限制，抑制|restrict
-x|dazzle|v.|使目眩；使……眼花|flash
-x|detain|v.|留住|hold
-x|devastate|v.|毁坏，毁灭|wreck
+x|detain|v.|拘留；留住；耽搁|hold
 x|disclose|v.|公开；揭露|expose
-x|disrupt|v.|破坏|destroy
-x|distract|v.|转移，分心|divert
 x|elaborate|v.|详细阐述，详细叙述|illustrate
+x|persuade|v.|说服，劝说|influence
+x|steer|v.|控制，引导|manage
+x|plot|v.|密谋|plan
+
+### From object
+
+| 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
+|---|---|---|---|---|---|
+14|underlie |v.|成为……基础| based on, ground, root
+42|impair| v.|削弱，减少| damage, diminish, decrease
+49|accelerate| v.|加速，促进；强调| speed up
+59|transmit|v.|传达，传输| pass, send ,transfer
+105|co-ordinate|v.|使……协调|organize, harmonize
+115|erode|v.|侵蚀|rust, damage
+116|induce|v.|引起，引诱|cause, lead to
+x|dazzle|v.|使目眩；使……眼花|flash
+x|devastate|v.|毁坏，毁灭|wreck
+x|ruin|v.|毁灭|destroy
+x|disrupt|v.|破坏|destroy
 x|eliminate|v.|消除，排除|dispose
+
+### From human or object
+
+| 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
+|---|---|---|---|---|---|
+75|sophisticate|v.|使复杂|complicate
+x|cater|v.|迎合；满足需求|serve
+x|certify|v.|证明，保证|verify
+x|distract|v.|转移，分心|divert
 x|evolve|v.|进化，发展；逐渐形成|develop
 x|exploit|v.|开发，利用|use
 x|indulge|v.|沉溺（于）|spoil
@@ -57,9 +77,7 @@ x|overtake|v.|赶上|surpass
 x|paralyse|v.|使……麻痹；使……瘫痪|cannot move
 x|participate|v.|参加|join
 x|peak|n./v.|最高峰，顶点/使……达到顶峰|top
-x|persuade|v.|说服，劝说|influence
 x|plagiarise|v.|抄袭|copy
-x|plot|v.|密谋|plan
 x|pose|v.|提出，造成，形成|cause
 x|predict|v.|预测，预知|expect
 x|prohibit|v.|禁止的|not allowed
@@ -68,18 +86,14 @@ x|promote|v.|促进，推销|improve
 x|prosper|v.|使成功，使繁荣|success
 x|purify|v.|净化|clean
 x|revive|v.|使复苏，恢复|renaissance
-x|ruin|v.|毁灭|destroy
 x|soar|v.|激增|increase
-x|steer|v.|控制，引导|manage
 x|stimulate|v.|刺激，激励|motivate
 x|subdivide|v.|把……细分|break down
 x|supersede|v.|取代，代替|replace
 x|suppress|v.|抑制，隐瞒|hold
 x|transcend|v.|胜过，超越|excel
 
-
-
-## Nouns
+## Nouns(75)
 
 | 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
 |---|---|---|---|---|---|
@@ -160,7 +174,7 @@ x|well-being|n.|健康，康乐|health
 x|solicitor|n.|律师|lawyer
 x|stride|n.|进展|progress
 
-## Adjectives
+## Adjectives(69)
 
 | 排名 | 考点词 | 词性 | 常考中文词义 | 雅思阅读真题命题方式 | 备注 |
 |---|---|---|---|---|---|

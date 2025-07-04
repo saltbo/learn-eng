@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "crawler": "^2.0.2",
+    "tough-cookie": "^4.1.4"
+  }
+}
